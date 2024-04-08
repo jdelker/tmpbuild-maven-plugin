@@ -1,12 +1,10 @@
 
 [![License](http://img.shields.io/:license-apache-brightgreen.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 [![Build Status](https://github.com/jdelker/tmpbuild-maven-plugin/actions/workflows/ci.yml/badge.svg)](https://github.com/jdelker/tmpbuild-maven-plugin/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/jdelker/tmpbuild-maven-plugin/branch/master/graph/badge.svg)](https://codecov.io/gh/jdelker/tmpbuild-maven-plugin)
 
 [![GitHub release](https://img.shields.io/github/release/jdelker/tmpbuild-maven-plugin.svg?colorB=brightgreen)](https://github.com/jdelker/tmpbuild-maven-plugin/)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.jdelker.maven.plugins/tmpbuild-maven-plugin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.jdelker.maven.plugins/tmpbuild-maven-plugin)
 [![Javadocs](https://www.javadoc.io/badge/com.github.jdelker.maven.plugins/tmpbuild-maven-plugin.svg)](https://www.javadoc.io/doc/com.github.jdelker.maven.plugins/tmpbuild-maven-plugin)
-[![JitPack](https://jitpack.io/v/jdelker/tmpbuild-maven-plugin.svg)](https://jitpack.io/#jdelker/tmpbuild-maven-plugin)
 
 A Maven plugin that provides the ability to transparently divert your build directory
 to another location via symbolic links.
